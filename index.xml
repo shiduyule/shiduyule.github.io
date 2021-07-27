@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vno Hugo</title>
+    <link>https://shiduyule.github.io/</link>
+    <description>Recent content on Vno Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 19 Jul 2021 07:28:27 +0800</lastBuildDate><atom:link href="https://shiduyule.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World Vno</title>
+      <link>https://shiduyule.github.io/2021/07/hello-world-vno/</link>
+      <pubDate>Mon, 19 Jul 2021 07:28:27 +0800</pubDate>
+      
+      <guid>https://shiduyule.github.io/2021/07/hello-world-vno/</guid>
+      <description>What&amp;rsquo;s this Vno Hugo is a theme for Hugo. It is a port of onevcat&amp;rsquo;s Vno Jekyll, which is originally developed from Dale Anthony&amp;rsquo;s Uno.
+Usage Inside the folder of your Hugo site run:
+$ git submodule add https://github.com/xslingcn/vno-hugo.git themes/vno-hugo Copy everything in the exampleSite folder to the root of your hugo site, then run hugo serve. Your site with Vno Hugo enabled should be accessible in http://localhost:1313/.
+For more information about Hugo, please visit Hugo&amp;rsquo;s site.</description>
+    </item>
+    
+    <item>
+      <title>Psychoanalysis</title>
+      <link>https://shiduyule.github.io/2021/07/psychoanalysis/</link>
+      <pubDate>Mon, 19 Jul 2021 07:28:27 +0800</pubDate>
+      
+      <guid>https://shiduyule.github.io/2021/07/psychoanalysis/</guid>
+      <description>第1讲 精神分析的基本内容 $x = a_1^n + a_{23}^n + a_{4}^n$
+第2讲 核心人格的形成 核心人格的形成与俄狄浦斯
+第22讲 比昂的临床思想 比昂是重要的精神分析客体关系理论家，著作有《思想等待思想者》，一次世界大战，作为坦克部队的指挥官参战，战后拒绝了勇敢勋章
+对传统精神分析的攻击：
+  传统的精神分析的第一个特征:决定论比昂：对待来访者，可以只关注当下
+  传统的精神分析的第二大特征：将意识分为意识和潜意识 比昂引入了有限和无限的概念
+  背景：潜意识和意识的概念太过模糊，让人摸不着边
+克莱德先生：夫妻之间扯皮真的可以因为很小的事就可以扯很大的皮
+举个例子,老公回家不小心把雨伞的雨水不小心弄到地上
+妻子说，你能不能注意一点，我今天做了一天的卫生
+老公说，不就是把一点水弄到地上吗，这个事情很好解决，要么是我花一分钟把它擦掉或者你花一分钟把它擦掉
+妻子说，这不是弄不弄掉的问题这是你尊不尊重我的劳动成果的问题
+  传统的精神分析：争论不断升级的过程，男人和女人在潜意识里面都有破坏亲密关系的愿望，他们只不过是利用了 这一事件增加他们的练习，使他们潜意识里面希望亲密关系中断的愿望变成现实从动力学的角度上来讲解释的很好
+  比昂：这两个人都在让有限的事向无限的方向发展=就事论事
+   每个人都趋乐避苦 比昂：人还有另外一套防御机制就是面对痛苦和承受痛苦
+  freud：梦是愿望的达成 比昂：梦是碎片的整合 精神病人是不做梦的
+  **比昂：当病人某一次来见治疗师的时候， 最好的状态是忘记这个病人的过去和不考虑未来，只关注病人的当下 ** 记忆的太好的治疗师或者父母会让人厌恶 病人如果掌握了生杀大权 第一个想杀的可能就是他的治疗师
+孩子在小时候会有一些出丑的事情记忆力太好的父母会一次次再将他们带回去
+比昂：治疗师永远不要问问题 不要用不断问问题来缓解自己的焦虑
+**比昂：成为比昂才能比昂 完全健康的人不太可能成为一个好的精神分析师 因为他对人类的痛苦没有直观的感受
+第23讲 阿尔法功能及链接 孩子病人生活中弱的人——β元素无法承受的情感体验——&amp;gt; 母亲治疗师生活中强者
+​ &amp;lt;——α元素可以承受的情感体验——
+使用命名的方法对不可忍受的情感体验变为可以承受的情感体验：你刚才做了一个噩梦 你一定很害怕//看恐怖电影，别怕，他们挖出来的是木乃伊</description>
+    </item>
+    
+    <item>
+      <title>toml grammar</title>
+      <link>https://shiduyule.github.io/2021/07/toml-grammar/</link>
+      <pubDate>Mon, 19 Jul 2021 07:28:27 +0800</pubDate>
+      
+      <guid>https://shiduyule.github.io/2021/07/toml-grammar/</guid>
+      <description>TOML 的全称是 Tom’s Obvious Minimal Language，因为它的作者是 GitHub 联合创始人 Tom Preston-Werner。TOML 的目的是成为一个极简的配置文件格式，可以无歧义地被映射为 hasmap，从而被多种语言解析
+格式约定 TOML 是大小写敏感的 编码格式使用 UTF-8 使用 # 进行注释 boolean 类型使用 true/false，小写格式 时间日期遵循 rfc3339 语法 string single key = &amp;ldquo;value&amp;rdquo; multi key = &amp;quot;&amp;quot;&amp;quot; value1 value2 &amp;quot;&amp;quot;&amp;quot; 等同于
+key = &amp;ldquo;value1\r\nvalue2\r\nvalue3&amp;rdquo; 如果不需要换行，则
+key = &amp;quot;&amp;quot;&amp;quot; value1
+value2 &amp;quot;&amp;quot;&amp;quot; 等同于
+key = &amp;ldquo;value1value2&amp;rdquo; array key = [ &amp;ldquo;value1&amp;rdquo; &amp;ldquo;value2&amp;rdquo; ] 记住，每个数组元素的数据类型必须一致
+hashmap [table] key = &amp;ldquo;value&amp;rdquo; 等同于
+{&amp;ldquo;table&amp;rdquo;:{&amp;ldquo;key&amp;rdquo;:&amp;ldquo;value&amp;rdquo;}} hashmap 还能嵌套 hashmap</description>
+    </item>
+    
+    <item>
+      <title>Sample Post</title>
+      <link>https://shiduyule.github.io/2021/07/sample-post/</link>
+      <pubDate>Mon, 19 Jul 2021 07:28:17 +0800</pubDate>
+      
+      <guid>https://shiduyule.github.io/2021/07/sample-post/</guid>
+      <description>You’ll find this post in your posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run hugo serve, which launches a web server and auto-regenerates your site when a file is updated.
+To add new posts, simply run:
+$ hugo new posts/my-sample-post.md And you shall see the my-sample-post.md file in posts directory, just edit the front matter and content as you like.</description>
+    </item>
+    
+  </channel>
+</rss>
