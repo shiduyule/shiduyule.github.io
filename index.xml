@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://shiduyule.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://shiduyule.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://shiduyule.github.io/post/myfirstblog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shiduyule.github.io/post/myfirstblog/</guid>
+      <description>人为什么活着，从动力学的角度来看，梅里契.克莱因认为：人活着，做一切事情的动力都来自他人的回应。这是我们活着的目的，也是我们活着的动力。这是从人的社会性的角度来考虑这个问题。假如我们深刻地考察人的所有行为，很容易发现，其实我们一辈子除了这件事（指寻求他人的回应），没有做别的了。
+这样来看，我们的所有生活其实很苍白。
+假如我们远离人群，我们作为群居动物的本性就会让我们不安，千万年的进化已经把社会性根植在我们的基因里面，社会性对于种群的延续来说更有利，社会性带来了分工合作，使得文明能够更有活力地发展，知识经验能够更好地传承下去。但是，与此同时，人有时又是自恋的，和他人走的太近，又会有损人作为一个个体的自恋，这就造成了一个矛盾，也就是人的社会性和自恋的矛盾。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://shiduyule.github.io/post/mysecondblog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://shiduyule.github.io/post/mysecondblog/</guid>
+      <description>在千万年的人生当中人的一辈子好像一天一样短暂</description>
+    </item>
+    
+  </channel>
+</rss>
